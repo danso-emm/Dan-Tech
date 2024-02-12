@@ -15,7 +15,7 @@
 .navbar-brand-slogan {
     font-weight: bold;
     font-family: 'Arial', sans-serif; /*a stylish font type*/
-    color: #0d6803;
+    color: auto;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /*Shadow effect*/
     padding-left: 3px; /*padding for spacing*/
 }
